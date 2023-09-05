@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.team-Match-Cont-bg {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  padding-bottom: 40px;
+  display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
+  flex-direction: column;
+}
+.team-Match-image {
+  padding-top: 20px;
+  width: 95vw;
+}
+.latest-Match-CONT {
+  background-color: black;
+  margin-bottom: 40px;
+  width: 95vw;
+}
+.recent-Match-COnt {
+  display: flex;
+  overflow: auto;
+  flex-wrap: wrap;
+}
+.bnr-Name {
+  color: white;
+  font-size: 15px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+}

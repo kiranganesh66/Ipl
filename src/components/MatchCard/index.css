@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-CONT {
+  background-color: #1e293b;
+  height: auto;
+  width: 17vw;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+.img_logo {
+  height: 90px;
+  width: 90px;
+}
+.heading {
+  color: white;
+  font-size: 18px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+}
+
+.desc {
+  color: white;
+  font-size: 15px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+}
+.status {
+  color: white;
+  font-size: 18px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+}
